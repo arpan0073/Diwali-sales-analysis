@@ -30,7 +30,4 @@ The dataset contains customer demographic details, product categories, orders, a
 - Visualizing insights using seaborn
 - Working with Jupyter Notebook for data analysis
 
-# How to Run
-1. Open the notebook using Jupyter Notebook
-2. Ensure the CSV file is in the same directory
-3. Run all cells sequentially
+
