@@ -1,4 +1,4 @@
-# Diwali Sales Analysis 📊
+# Diwali Sales Analysis
 
 This project performs Exploratory Data Analysis (EDA) on a Diwali sales dataset to understand customer purchasing behavior.
 
